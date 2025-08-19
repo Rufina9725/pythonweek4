@@ -1,0 +1,5 @@
+Python makes programming fun.
+Error handling is very important.
+Files can be read and written in Python.
+Practice helps you master coding.
+Keep learning every day!
